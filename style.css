@@ -1,0 +1,12 @@
+/*
+Theme Name:     WP framework Child
+Theme URI:      http: //florentparcevaux.com/
+Description:    Thème enfant de mon framework Wordpress 
+Author:         Florent Parcevaux
+Author URI:     http: //florentparcevaux.com/about/
+Template:       wp-framework
+Version:        0.1.0
+*/
+
+@import url("../wp-framework/style.css"); /* import du style du framework*/
+
